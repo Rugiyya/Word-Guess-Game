@@ -1,0 +1,39 @@
+body {
+    background-color: white;
+    margin: 0 auto;
+	padding: 0 auto;
+	font-family: Arial, Helvetica, sans-serif;
+    line-height: 200%;
+}
+
+header,h2, h3 {
+    font-size:20px;
+    text-align: center;
+    font-size: 30px;
+    margin-block-start: 2em;
+    margin-block-end: 2em;
+    margin-inline-start: 2em;
+    margin-inline-end: 2em;
+    color: black;
+}
+.currentword, .underscore, .letteralredyguessed, #numGuess, #guessedLetters  {
+    font-size:20px;
+    text-align: center;
+    font-size: 30px;
+    margin-block-start: 2em;
+    margin-block-end: 2em;
+    margin-inline-start: 2em;
+    margin-inline-end: 2em;
+    color:black;
+}
+#wincounter, .guessesleft, .leftguesses {
+    font-size:20px;
+    text-align: center;
+    font-size: 30px;
+    margin-block-start: 2em;
+    margin-block-end: 2em;
+    margin-inline-start: 2em;
+    margin-inline-end: 2em;
+    color:black;
+}
+   
